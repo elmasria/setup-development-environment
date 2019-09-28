@@ -15,4 +15,4 @@ if [ -f /opt/local/etc/profile.d/bash_completion.sh ]; then
 fi
 ```
 #### References:
-* (https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)[https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion]
+* [https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
