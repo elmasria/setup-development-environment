@@ -16,3 +16,7 @@ fi
 ```
 #### References:
 * [https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+
+
+## Helpers
+* [Git Style Guide](https://udacity.github.io/git-styleguide/)
