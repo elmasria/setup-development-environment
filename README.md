@@ -3,6 +3,10 @@
 ## Pre-requisite softwares and IDE
 * [https://atom.io/](https://atom.io/)
 
+### Atom Packages
+* [file-icons](https://atom.io/packages/file-icons)
+* [lint](https://atom.io/packages/lint)
+
 ## macOS
 ### git & bash-completion
 1. Check if `git-completion.bash` is installed
