@@ -1,5 +1,7 @@
 # Setup Development Environment
 
+## Pre-requisite softwares and IDE
+* [https://atom.io/](https://atom.io/)
 
 ## macOS
 ### git & bash-completion
